@@ -1,0 +1,1091 @@
+1619202414147	geckodriver	INFO	Listening on 127.0.0.1:56797
+1619202414441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile8gatU3"
+1619202415221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619202418079	Marionette	INFO	Listening on port 56809
+1619202418115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619202447404	Marionette	INFO	Stopped listening on port 56809
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619202557081	geckodriver	INFO	Listening on 127.0.0.1:57007
+1619202558099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilewjXYEi"
+1619202558698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619202560961	Marionette	INFO	Listening on port 57018
+1619202561036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619202949272	geckodriver	INFO	Listening on 127.0.0.1:57147
+1619202950280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileN3PiAV"
+1619202950759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619202952948	Marionette	INFO	Listening on port 57159
+1619202952993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619203406799	Marionette	INFO	Stopped listening on port 57018
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619203414115	Marionette	INFO	Stopped listening on port 57159
+1619203460904	geckodriver	INFO	Listening on 127.0.0.1:57359
+1619203461921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileHZWdoo"
+1619203462373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619203464418	Marionette	INFO	Listening on port 57370
+1619203464429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619203523517	Marionette	INFO	Stopped listening on port 57370
+1619203705267	geckodriver	INFO	Listening on 127.0.0.1:57621
+1619203706286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileKqsX7C"
+1619203706886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619203708942	Marionette	INFO	Listening on port 57632
+1619203709008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619203728931	Marionette	INFO	Stopped listening on port 57632
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619204891941	geckodriver	INFO	Listening on 127.0.0.1:57801
+1619204892963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile0WEPl2"
+1619204893544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619204895825	Marionette	INFO	Listening on port 57812
+1619204895890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+1619214384330	Marionette	INFO	Stopped listening on port 57812
+1619214637521	geckodriver	INFO	Listening on 127.0.0.1:59348
+1619214638542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilel6ndZh"
+1619214639080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619214641498	Marionette	INFO	Listening on port 59359
+1619214641572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619214674679	Marionette	INFO	Stopped listening on port 59359
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619214678270	geckodriver	INFO	Listening on 127.0.0.1:59443
+1619214680031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofiledVwoSa"
+1619214680297	Marionette	INFO	Marionette enabled
+1619214682012	Marionette	INFO	Listening on port 59454
+1619214682117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619216914743	Marionette	INFO	Stopped listening on port 59454
+1619258092459	geckodriver	INFO	Listening on 127.0.0.1:49946
+1619258094162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilecfjcA2"
+1619258094571	Marionette	INFO	Marionette enabled
+1619258096764	Marionette	INFO	Listening on port 49960
+1619258096810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iCwx4/y3/l/en_GB/xwjpiTTmvNy.js?_nc_x=Ij3Wp8lg5Kz, line 11: Script terminated by timeout at:
+v@https://static.xx.fbcdn.net/rsrc.php/v3iCwx4/y3/l/en_GB/xwjpiTTmvNy.js?_nc_x=Ij3Wp8lg5Kz:11:1015
+u@https://static.xx.fbcdn.net/rsrc.php/v3iCwx4/y3/l/en_GB/xwjpiTTmvNy.js?_nc_x=Ij3Wp8lg5Kz:11:953
+c@https://static.xx.fbcdn.net/rsrc.php/v3iCwx4/y3/l/en_GB/xwjpiTTmvNy.js?_nc_x=Ij3Wp8lg5Kz:11:1321
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:276:2202
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:56:9655
+u</c.fire@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:257:7613
+t<@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:257:6788
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:56:9655
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:276:2252
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/F6Wm7oV11nv.js?_nc_x=Ij3Wp8lg5Kz:243:209
+
+1619258118240	Marionette	INFO	Stopped listening on port 49960
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619258667552	geckodriver	INFO	Listening on 127.0.0.1:50060
+1619258669290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileZFCIRu"
+1619258669569	Marionette	INFO	Marionette enabled
+1619258671311	Marionette	INFO	Listening on port 50071
+1619258671391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619258684302	Marionette	INFO	Stopped listening on port 50071
+1619258705380	geckodriver	INFO	Listening on 127.0.0.1:50123
+1619258707096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile10cLNi"
+1619258707354	Marionette	INFO	Marionette enabled
+1619258709054	Marionette	INFO	Listening on port 50130
+1619258709092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619282553491	geckodriver	INFO	Listening on 127.0.0.1:50560
+1619282555266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileJegFLn"
+1619282555539	Marionette	INFO	Marionette enabled
+1619282557651	Marionette	INFO	Listening on port 50567
+1619282557705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619282577688	Marionette	INFO	Stopped listening on port 50567
+1619282840111	geckodriver	INFO	Listening on 127.0.0.1:50653
+1619282841827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilewb8pEm"
+1619282842081	Marionette	INFO	Marionette enabled
+1619282843986	Marionette	INFO	Listening on port 50660
+1619282844048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619282870798	Marionette	INFO	Stopped listening on port 50660
+1619282894378	geckodriver	INFO	Listening on 127.0.0.1:50741
+1619282896102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilekfFmt3"
+1619282896345	Marionette	INFO	Marionette enabled
+1619282898247	Marionette	INFO	Listening on port 50748
+1619282898302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283068346	Marionette	INFO	Stopped listening on port 50748
+1619283207417	geckodriver	INFO	Listening on 127.0.0.1:50828
+1619283209133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilebxmf9q"
+1619283209379	Marionette	INFO	Marionette enabled
+1619283211311	Marionette	INFO	Listening on port 50835
+1619283211346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283251216	Marionette	INFO	Stopped listening on port 50835
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619283433984	geckodriver	INFO	Listening on 127.0.0.1:50963
+1619283435748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileuTgTBl"
+1619283436022	Marionette	INFO	Marionette enabled
+1619283438094	Marionette	INFO	Listening on port 50970
+1619283438170	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619283454781	Marionette	INFO	Stopped listening on port 50970
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619283476529	geckodriver	INFO	Listening on 127.0.0.1:51045
+1619283478255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileQ1fopQ"
+1619283478501	Marionette	INFO	Marionette enabled
+1619283480338	Marionette	INFO	Listening on port 51053
+1619283480444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283563763	Marionette	INFO	Stopped listening on port 51053
+1619283568529	geckodriver	INFO	Listening on 127.0.0.1:51126
+1619283570254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileBdTdJa"
+1619283570506	Marionette	INFO	Marionette enabled
+1619283572345	Marionette	INFO	Listening on port 51134
+1619283572450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283736742	Marionette	INFO	Stopped listening on port 51134
+1619283743109	geckodriver	INFO	Listening on 127.0.0.1:51222
+1619283744836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileg2uIpD"
+1619283745092	Marionette	INFO	Marionette enabled
+1619283747071	Marionette	INFO	Listening on port 51229
+1619283747140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283765637	Marionette	INFO	Stopped listening on port 51229
+1619283831361	geckodriver	INFO	Listening on 127.0.0.1:51333
+1619283833102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileJcFFen"
+1619283833380	Marionette	INFO	Marionette enabled
+1619283835198	Marionette	INFO	Listening on port 51340
+1619283835298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619283997900	Marionette	INFO	Stopped listening on port 51340
+1619284001563	geckodriver	INFO	Listening on 127.0.0.1:51428
+1619284003298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofiletq7cWc"
+1619284003554	Marionette	INFO	Marionette enabled
+1619284005373	Marionette	INFO	Listening on port 51436
+1619284005387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619284167385	Marionette	INFO	Stopped listening on port 51436
+1619284170227	geckodriver	INFO	Listening on 127.0.0.1:51528
+1619284171944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileIirO26"
+1619284172192	Marionette	INFO	Marionette enabled
+1619284174069	Marionette	INFO	Listening on port 51535
+1619284174145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619284261089	Marionette	INFO	Stopped listening on port 51535
+1619284264144	geckodriver	INFO	Listening on 127.0.0.1:51608
+1619284265860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilefv9071"
+1619284266104	Marionette	INFO	Marionette enabled
+1619284267809	Marionette	INFO	Listening on port 51615
+1619284267866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619284284795	Marionette	INFO	Stopped listening on port 51615
+1619284467130	geckodriver	INFO	Listening on 127.0.0.1:51695
+1619284468851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileanJN1E"
+1619284469109	Marionette	INFO	Marionette enabled
+1619284470981	Marionette	INFO	Listening on port 51702
+1619284471046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619284497867	Marionette	INFO	Stopped listening on port 51702
+1619284511781	geckodriver	INFO	Listening on 127.0.0.1:51773
+1619284513500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilewFFFP3"
+1619284513747	Marionette	INFO	Marionette enabled
+1619284515494	Marionette	INFO	Listening on port 51780
+1619284515592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619284547323	Marionette	INFO	Stopped listening on port 51780
+1619285019114	geckodriver	INFO	Listening on 127.0.0.1:51954
+1619285020898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofiles5V6WX"
+1619285021175	Marionette	INFO	Marionette enabled
+1619285023257	Marionette	INFO	Listening on port 51961
+1619285023306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619285049229	Marionette	INFO	Stopped listening on port 51961
+1619285134527	geckodriver	INFO	Listening on 127.0.0.1:52033
+1619285136305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilesylf7e"
+1619285136575	Marionette	INFO	Marionette enabled
+1619285138455	Marionette	INFO	Listening on port 52040
+1619285138504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619285175758	Marionette	INFO	Stopped listening on port 52040
+1619285241210	geckodriver	INFO	Listening on 127.0.0.1:52114
+1619285242938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileICoj3s"
+1619285243191	Marionette	INFO	Marionette enabled
+1619285245102	Marionette	INFO	Listening on port 52121
+1619285245153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619285273863	Marionette	INFO	Stopped listening on port 52121
+1619285277780	geckodriver	INFO	Listening on 127.0.0.1:52192
+1619285279501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilerAFi10"
+1619285279751	Marionette	INFO	Marionette enabled
+1619285281556	Marionette	INFO	Listening on port 52199
+1619285281585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619285304443	Marionette	INFO	Stopped listening on port 52199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619285991478	Marionette	INFO	Stopped listening on port 50130
+1619287057087	geckodriver	INFO	Listening on 127.0.0.1:52567
+1619287058907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileI9OxEZ"
+1619287059279	Marionette	INFO	Marionette enabled
+1619287061396	Marionette	INFO	Listening on port 52574
+1619287061420	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619287269035	Marionette	INFO	Stopped listening on port 52574
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619287993308	geckodriver	INFO	Listening on 127.0.0.1:52860
+1619287995398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilehdD0it"
+1619287995790	Marionette	INFO	Marionette enabled
+1619287998028	Marionette	INFO	Listening on port 52867
+1619287998109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619288028229	Marionette	INFO	Stopped listening on port 52867
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619288048581	geckodriver	INFO	Listening on 127.0.0.1:52928
+1619288050667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile6osIFQ"
+1619288050952	Marionette	INFO	Marionette enabled
+1619288052845	Marionette	INFO	Listening on port 52935
+1619288052892	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1619288219686	Marionette	INFO	Stopped listening on port 52935
+1619288236596	geckodriver	INFO	Listening on 127.0.0.1:53002
+1619288238624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileGGlgt9"
+1619288238910	Marionette	INFO	Marionette enabled
+1619288240669	Marionette	INFO	Listening on port 53009
+1619288240709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619288342119	Marionette	INFO	Stopped listening on port 53009
+1619342139850	geckodriver	INFO	Listening on 127.0.0.1:53820
+1619342141710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileutOFHi"
+1619342142137	Marionette	INFO	Marionette enabled
+1619342144463	Marionette	INFO	Listening on port 53827
+1619342144549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1619342172884	Marionette	INFO	Stopped listening on port 53827
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619342447876	geckodriver	INFO	Listening on 127.0.0.1:53922
+1619342449761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilehmI7VW"
+1619342450147	Marionette	INFO	Marionette enabled
+1619342452375	Marionette	INFO	Listening on port 53935
+1619342452486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619342463316	Marionette	INFO	Stopped listening on port 53935
+1619342532617	geckodriver	INFO	Listening on 127.0.0.1:53994
+1619342534451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilesIQosQ"
+1619342534711	Marionette	INFO	Marionette enabled
+1619342536783	Marionette	INFO	Listening on port 54001
+1619342536864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619342572383	Marionette	INFO	Stopped listening on port 54001
+1619342641895	geckodriver	INFO	Listening on 127.0.0.1:54080
+1619342643702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileb1dWX8"
+1619342643953	Marionette	INFO	Marionette enabled
+1619342646083	Marionette	INFO	Listening on port 54087
+1619342646118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619342663989	Marionette	INFO	Stopped listening on port 54087
+1619342706285	geckodriver	INFO	Listening on 127.0.0.1:54163
+1619342708095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile0Y9RrC"
+1619342708349	Marionette	INFO	Marionette enabled
+1619342710263	Marionette	INFO	Listening on port 54170
+1619342710293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619342773203	Marionette	INFO	Stopped listening on port 54170
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619432548141	geckodriver	INFO	Listening on 127.0.0.1:56469
+1619432550217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile6XKsHH"
+1619432550686	Marionette	INFO	Marionette enabled
+1619432553113	Marionette	INFO	Listening on port 56476
+1619432553156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619432757557	Marionette	INFO	Stopped listening on port 56476
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619432763261	geckodriver	INFO	Listening on 127.0.0.1:56630
+1619432792984	geckodriver	INFO	Listening on 127.0.0.1:56640
+1619432795011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilelYXVb2"
+1619432795297	Marionette	INFO	Marionette enabled
+1619432797199	Marionette	INFO	Listening on port 56647
+1619432797215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619432818270	Marionette	INFO	Stopped listening on port 56647
+1619542106436	geckodriver	INFO	Listening on 127.0.0.1:63953
+1619542108564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileP5hG7s"
+1619542109167	Marionette	INFO	Marionette enabled
+1619542113072	Marionette	INFO	Listening on port 63961
+1619542113181	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1619542258473	Marionette	INFO	Stopped listening on port 63961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619712482735	geckodriver	INFO	Listening on 127.0.0.1:51117
+1619712484804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileCmhop5"
+1619712485308	Marionette	INFO	Marionette enabled
+1619712487600	Marionette	INFO	Listening on port 51128
+1619712487658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619712711332	Marionette	INFO	Stopped listening on port 51128
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619712717208	geckodriver	INFO	Listening on 127.0.0.1:51240
+1619712719248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileYgxrVK"
+1619712719512	Marionette	INFO	Marionette enabled
+1619712721541	Marionette	INFO	Listening on port 51247
+1619712721649	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370002,name=PCompositorBridge::Msg_DidComposite) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1619712782936	Marionette	INFO	Stopped listening on port 51247
+1619712880420	geckodriver	INFO	Listening on 127.0.0.1:51369
+1619712882495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofiles651lK"
+1619712882767	Marionette	INFO	Marionette enabled
+1619712884780	Marionette	INFO	Listening on port 51376
+1619712884795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619712950495	Marionette	INFO	Stopped listening on port 51376
+1619712953825	geckodriver	INFO	Listening on 127.0.0.1:51457
+1619712955843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileemvXZH"
+1619712956093	Marionette	INFO	Marionette enabled
+1619712957899	Marionette	INFO	Listening on port 51464
+1619712957948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619713123764	Marionette	INFO	Stopped listening on port 51464
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619713127810	geckodriver	INFO	Listening on 127.0.0.1:51629
+1619713129833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilevBozyX"
+1619713130099	Marionette	INFO	Marionette enabled
+1619713132068	Marionette	INFO	Listening on port 51636
+1619713132132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619713196104	Marionette	INFO	Stopped listening on port 51636
+1619713203013	geckodriver	INFO	Listening on 127.0.0.1:51722
+1619713205058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileEQiZyc"
+1619713205315	Marionette	INFO	Marionette enabled
+1619713207283	Marionette	INFO	Listening on port 51729
+1619713207351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619713332599	Marionette	INFO	Stopped listening on port 51729
+1619713336379	geckodriver	INFO	Listening on 127.0.0.1:51810
+1619713338401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileQRyV7G"
+1619713338657	Marionette	INFO	Marionette enabled
+1619713340385	Marionette	INFO	Listening on port 51817
+1619713340495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1619713431873	Marionette	INFO	Stopped listening on port 51817
+1619714598214	geckodriver	INFO	Listening on 127.0.0.1:52312
+1619714600282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilefHuBRh"
+1619714600661	Marionette	INFO	Marionette enabled
+1619714603136	Marionette	INFO	Listening on port 52320
+1619714603206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619714643400	Marionette	INFO	Stopped listening on port 52320
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619714663227	geckodriver	INFO	Listening on 127.0.0.1:52410
+1619714665261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofiler3aTNu"
+1619714665505	Marionette	INFO	Marionette enabled
+1619714667249	Marionette	INFO	Listening on port 52417
+1619714667270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619715123417	Marionette	INFO	Stopped listening on port 52417
+1619715837796	geckodriver	INFO	Listening on 127.0.0.1:52705
+1619715839637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileceo9yo"
+1619715840003	Marionette	INFO	Marionette enabled
+1619715842263	Marionette	INFO	Listening on port 52713
+1619715842373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619851154169	Marionette	INFO	Stopped listening on port 52713
+1619852063791	geckodriver	INFO	Listening on 127.0.0.1:54923
+1619852065623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilehCHdXJ"
+1619852066083	Marionette	INFO	Marionette enabled
+1619852068624	Marionette	INFO	Listening on port 54930
+1619852068657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619852781753	Marionette	INFO	Stopped listening on port 54930
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620472467220	geckodriver	INFO	Listening on 127.0.0.1:49567
+1620472469167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofilelr9S77"
+1620472469488	Marionette	INFO	Marionette enabled
+1620472471546	Marionette	INFO	Listening on port 49578
+1620472471602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620472486564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620472725837	Marionette	INFO	Stopped listening on port 49578
+1620474929368	geckodriver	INFO	Listening on 127.0.0.1:50332
+1620474931744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofile2TfPiQ"
+1620474932375	Marionette	INFO	Marionette enabled
+1620474934937	Marionette	INFO	Listening on port 50343
+1620474934994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620474989066	Marionette	INFO	Stopped listening on port 50343
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620475024674	geckodriver	INFO	Listening on 127.0.0.1:50462
+1620475027067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileIgBzYE"
+1620475027365	Marionette	INFO	Marionette enabled
+1620475029642	Marionette	INFO	Listening on port 50476
+1620475029670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620475068452	Marionette	INFO	Stopped listening on port 50476
+1620475132085	geckodriver	INFO	Listening on 127.0.0.1:50550
+1620475134387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "/var/folders/9_/l3n5y3ws08bdty2w_x3pjdgr0000gn/T/rust_mozprofileqBbP0X"
+1620475134662	Marionette	INFO	Marionette enabled
+1620475136705	Marionette	INFO	Listening on port 50561
+1620475136794	Marionette	WARN	TLS certificate errors will be ignored for this session
